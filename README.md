@@ -19,4 +19,4 @@ A sleek and interactive **music landing page** designed for artists, events, and
 🛠️ Setup  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/yourusername/pixify-music-landing-ui.git
+   git clone https://github.com/pixi-pov/Pixify--Music-Landing-Page.git
